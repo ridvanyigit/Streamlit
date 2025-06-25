@@ -1,8 +1,5 @@
 ﻿# Streamlit Application Tutorials
 
-## YouTube Playlist
-https://www.youtube.com/playlist?list=PLc2rvfiptPSSpZ99EnJbH5LjTJ_nOoSWW
-
 
 ## 1. Working with Text Display
 **Emojis**: https://share.streamlit.io/streamlit/emoji-shortcodes
