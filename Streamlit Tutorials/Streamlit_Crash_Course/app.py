@@ -1,6 +1,5 @@
 ## Streamlit Application Basics
 # Reference Book: https://packt.link/17kvV
-# Code Repository: https://github.com/laxmimerit/streamlit-tutorials
 # streamlit run app.py
 
 import streamlit as st
